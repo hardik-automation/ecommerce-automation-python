@@ -23,8 +23,11 @@ This project automates the complete checkout process on a demo ecommerce website
 ## How to Run
 
 git clone https://github.com/hardik-automation/ecommerce-automation-python.git
+<br/>
 cd ecommerce-automation-python
+<br/>
 pip install selenium
+<br/>
 python tutorialsninja_automation.py
 
 ## Output
