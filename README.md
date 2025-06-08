@@ -30,5 +30,7 @@ python tutorialsninja_automation.py
 ## Output
 
 Final Product Price : $122.00
+<br/>
 Your order has been placed!
+<br>
 Process Complete
